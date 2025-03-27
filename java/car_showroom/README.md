@@ -1,0 +1,2 @@
+# Car showroom apllication
+The project is a car showroom management system built in Java using JavaFX for the graphical user interface (GUI). The application allows users to browse, search, and filter vehicles across different showrooms, with the option to sort vehicles by brand, price, and production year. The system offers vehicle reservation and purchase functionalities, displaying detailed information about each car through tooltips.
