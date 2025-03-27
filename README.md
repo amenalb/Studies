@@ -1,0 +1,2 @@
+This repository contains selected projects developed as part of my Computational Engineering studies. The projects are organized by programming language: Python, Java, and AISD (C++). They focus on various topics such as algorithms, data structures, numerical methods, and physical simulations. In addition to these core areas, I have also worked on applications for database management, client applications, and data analysis.
+
